@@ -905,14 +905,14 @@ ul li::marker {
 
 .filter-select {
   background: var(--eerie-black-2);
-  color: var(--light-gray);
+  color: var(--eerie-black-2);
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 100%;
+
   padding: 12px 16px;
 
-  border-radius: 14px;
+
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
 }
